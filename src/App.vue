@@ -22,6 +22,10 @@ const country = ref({})
   <div class="sm:max-w-md p-8">
     <SelectBox :options="countries" v-model="country" placeholder="Select Country" />
   </div>
+
+  <div class="sm:max-w-md p-8 pt-0">
+    Source: <a href="https://github.com/justinbezanson/vue-select-box" class="text-blue-600 underline underline-offset-1 hover:no-underline">Github</a>
+  </div>
 </template>
 
 <style scoped>

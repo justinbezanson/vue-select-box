@@ -27,4 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
-# vue-select-box
+
+## Credits
+
+This component is based off of the select menu with avatar from [TailwindUI](https://tailwindui.com/components/application-ui/forms/select-menus).
+
+The flag icons are from [country-flag-icons](https://gitlab.com/catamphetamine/country-flag-icons).
